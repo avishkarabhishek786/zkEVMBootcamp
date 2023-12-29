@@ -1,0 +1,31 @@
+Q. How would you describe the following concepts and how do you rank
+them in terms of their importance to you
+1. TPS and transaction cost
+2. Finality
+3. Privacy
+4. Decentralisation
+5. Security
+
+Ans - 
+
+1. Security - it relates to the robustness of any system and its abitlity to combat 
+external attacks meant to steal data. For me, security is upmost important stuff because 
+no one would use a app that gets hacked all the time.
+
+2. Finality - transaction finality is a state of the transaction from where we can be 
+assured that its data can now not be altered because it has been recorded by several 
+miners/network-operators. Finality is rank 2 for me because if a transaction state can 
+be altered later on then it makes the whole system not trustworthy.
+
+3. Decentralisation - Decentralisation is a state of the data when it benn shared with multiple
+parties. It's rank 3 for me because it ensures data validity.
+
+4. TPS and transaction cost - TPS is how many transactions are being mined every second. 
+TPS and transaction cost are important if the application is meant for the mass. Espeacilly 
+if the transactions are going to be frequent nobody wants to overpay and/or wait for transaction
+execution. 
+
+5. Privacy - Privacy, though very important, is still last thing for me because most of the 
+time people require trust on the app. And if the data is public and decentralised it increases
+trust. However, privacy matters most if the data shared is between parties/enterprises or if the
+data is personal. 

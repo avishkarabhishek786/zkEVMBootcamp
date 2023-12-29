@@ -1,0 +1,5 @@
+1. 4+4=8 == 1(mod7)
+2. 3×5=15 == 1(mod7)
+3. The inverse of 3 under addition is -3 == 4 (mod 7)
+4. The inverse of 3 under multiplication is 5 == 1 (mod 7)
+5. 

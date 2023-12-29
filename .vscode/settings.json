@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./rust/homeworks/homework6/bootcamp/Cargo.toml"
+    ]
+}
